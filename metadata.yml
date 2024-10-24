@@ -1,18 +1,19 @@
-Identifier: ""
-Slug: ""
-Status: ""
-Title: ""
-Description: ""
-Mode: ""
+Identifier: eos35g4
+Slug: drug-metabolites
+Status: In progress
+Title: Drug metabolites prediction
+Description: Prediction of drug metabolites using neural machine translation. An ensemble
+  model is built to account for multiple and diverse metabolites.
+Mode: ''
 Task: []
 Input: []
-Input Shape: ""
+Input Shape: ''
 Output: []
 Output Type: []
-Output Shape: ""
-Interpretation: ""
-Tag: []
-Publication: ""
-Source Code: ""
-License: ""
-
+Output Shape: ''
+Interpretation: ''
+Tag:
+- Metabolism
+Publication: https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc02639e
+Source Code: https://github.com/KavrakiLab/MetaTrans
+License: BSD-3-Clause
